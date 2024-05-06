@@ -18,5 +18,5 @@ This project leverages the Langchain library in combination with Cohere's langua
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone [URL to your repository]
-   cd [Repository Name]
+   git clone https://github.com/LubangaD/MRKLApp.git
+   cd MRKL
